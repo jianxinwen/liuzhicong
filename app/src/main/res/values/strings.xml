@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">X</string>
+    <string name="img_icon">头像</string>
+    <string name="welcome">欢迎</string>
+    <string name="list_view_header">表头</string>
+    <string name="list_view_footer">表尾</string>
+    <string name="yuangjihua">原计划</string>
+    <string name="jx">简晓</string>
+    <string name="wzry">王者荣耀</string>
+    <string name="camera">照相机</string>
+    <string name="bc">测试广播</string>
+    <string name="login">登录</string>
+    <string name="other_login">顶下去</string>
+    <string name="gotologin">转到登录页面</string>
+    <string name="test">测试</string>
+    <string name="foo">FOO</string>
+    <string name="tab_menu_alert">提醒</string>
+    <string name="tab_menu_message">信息</string>
+    <string name="tab_menu_profile">我的</string>
+    <string name="tab_menu_setting">设置</string>
+    <string name="screen_shot">截屏</string>
+    <string name="reset">重置</string>
+    <string name="apply">应用</string>
+    <string name="lzc">六只虫</string>
+    <string name="game_name">六只虫</string>
+
+    <string name="play_again">再来一局</string>
+    <string name="regret">悔棋</string>
+</resources>
